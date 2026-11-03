@@ -22,12 +22,11 @@
 
 ---
 
-
 ## About Me
 
-<table>
-  <tr>
-    <td width="72%" valign="middle">
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td width="72%" valign="middle" style="border: none;">
       <p>
         I'm Maricielo, a Systems Engineering student at the
         <strong>National University of Cajamarca</strong>,
@@ -45,12 +44,12 @@
         digital experiences.
       </p>
     </td>
-    <td width="28%" align="center" valign="middle">
+    <td width="28%" align="center" valign="middle" style="border: none;">
       <img
         src="./assets/neko-transparent.gif"
         width="180"
         alt="Neko coding cat"
-      />
+        />
       <br/>
       <sub>My little coding companion</sub>
     </td>
