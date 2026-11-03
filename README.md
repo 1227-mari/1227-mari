@@ -46,12 +46,11 @@
     </td>
     <td width="28%" align="center" valign="middle" style="border: none;">
       <img
-        src="./assets/neko-transparent.gif"
+        src="./assets/neko-transparent_yellow_1.gif"
         width="180"
         alt="Neko coding cat"
         />
       <br/>
-      <sub>My little coding companion</sub>
     </td>
   </tr>
 </table>
