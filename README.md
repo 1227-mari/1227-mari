@@ -25,22 +25,19 @@
 
 ## About Me
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/neko-transparent_yellow_1.gif"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/neko-transparent.gif"
-  />
-  <img
-    align="right"
-    width="320"
-    src="./assets/neko-transparent.gif"
-    alt="My little coding companion"
-  />
-</picture>
+<img
+  align="right"
+  width="320"
+  src="./assets/neko-transparent.gif#gh-light-mode-only"
+  alt="Black coding cat"
+/>
+
+<img
+  align="right"
+  width="320"
+  src="./assets/neko-transparent_yellow_1.gif#gh-dark-mode-only"
+  alt="Yellow coding cat"
+/>
 
 I'm Maricielo, a Systems Engineering student at the
 **National University of Cajamarca**, with a professional
