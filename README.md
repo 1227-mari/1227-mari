@@ -22,38 +22,42 @@
 
 ---
 
+
 ## About Me
 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="72%" valign="middle" style="border: none;">
-      <p>
-        I'm Maricielo, a Systems Engineering student at the
-        <strong>National University of Cajamarca</strong>,
-        with a professional focus on <strong>Frontend Development</strong>.
-      </p>
-      <p>
-        I'm interested in building web interfaces that combine functionality,
-        usability and visual consistency. Through academic and collaborative
-        projects, I've gained experience in interface development,
-        feature implementation, API integration and usability testing.
-      </p>
-      <p>
-        I enjoy learning through practice, solving problems and exploring
-        how design and technology come together to create meaningful
-        digital experiences.
-      </p>
-    </td>
-    <td width="28%" align="center" valign="middle" style="border: none;">
-      <img
-        src="./assets/neko-transparent_yellow_1.gif"
-        width="180"
-        alt="Neko coding cat"
-        />
-      <br/>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/neko-transparent_yellow_1.gif"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/neko-transparent.gif"
+  />
+  <img
+    align="right"
+    width="320"
+    src="./assets/neko-transparent.gif"
+    alt="My little coding companion"
+  />
+</picture>
+
+I'm Maricielo, a Systems Engineering student at the
+**National University of Cajamarca**, with a professional
+focus on **Frontend Development**.
+
+I'm interested in building web interfaces that combine
+functionality, usability and visual consistency. Through
+academic and collaborative projects, I've gained experience
+in interface development, feature implementation,
+API integration and usability testing.
+
+I enjoy learning through practice, solving problems and
+exploring how design and technology come together to create
+meaningful digital experiences.
+
+<br clear="right"/>
+
 
 ---
 
