@@ -27,14 +27,14 @@
 
 <img
   align="right"
-  width="320"
+  width="335"
   src="./assets/neko-transparent.gif#gh-light-mode-only"
   alt="Black coding cat"
 />
 
 <img
   align="right"
-  width="320"
+  width="325"
   src="./assets/neko-transparent_yellow_1.gif#gh-dark-mode-only"
   alt="Yellow coding cat"
 />
