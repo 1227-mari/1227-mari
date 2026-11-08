@@ -3,7 +3,7 @@
 
 <div align="center">
   <img
-    src="./assets/banner-maricielo.png"
+    src="./assets/Portafolio_Mari.png"
     width="100%"
     alt="Maricielo Cachay | Frontend Developer"
   />
